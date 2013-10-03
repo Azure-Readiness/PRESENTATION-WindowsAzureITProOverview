@@ -1,4 +1,4 @@
-PRESENTATION-WindowsAzureITProOverview
+PRESENTATION-WindowsAzureEnterprise
 ======================================
 
-Windows Azure Overview for IT Professionals
+Windows Azure Overview for Enterprises and IT Professionals
