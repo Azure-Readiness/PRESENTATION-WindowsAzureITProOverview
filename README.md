@@ -1,4 +1,4 @@
 PRESENTATION-WindowsAzureEnterprise
 ======================================
 
-Windows Azure Overview for Enterprises and IT Professionals
+The contents of repository has moved to [MicrosoftAzureTrainingKit](https://github.com/Microsoft-TrainingKits/MicrosoftAzureTrainingKit/tree/master/Decks/PRESENTATION-WindowsAzureITProOverview)
